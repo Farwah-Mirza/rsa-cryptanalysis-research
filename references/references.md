@@ -10,16 +10,17 @@ Rivest, Ronald L., Adi Shamir, and Leonard Adleman. "A Method for Obtaining Digi
 
 Boneh, Dan. "Twenty Years of Attacks on the RSA Cryptosystem." Stanford University. [PDF](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf).
 
-Narayanan, Ananth. "RSA: Mathematics and Attacks." MIT PRIMES, 2014.
+
+Naser, S. M. “Cryptography: From the Ancient History to Now, It’s Applications and a New Complete Numerical Model.” International Journal of Mathematics and Statistics Studies, vol. 9, no. 3, 2021, pp. 11–30. [PDF](https://eajournals.org/wp-content/uploads/Cryptography.pdf).
+
 
 ## Online Sources
+Narayanan, Shyam. “Improving the Accuracy of Primality Tests by Enhancing the Miller-Rabin Theorem.” Fourth Annual MIT-PRIMES Conference, 17 May 2014, [PowerPoint](https://math.mit.edu/research/highschool/primes/materials/2014/conf/5-1-Narayanan.pdf).
 
 Packet Mania. "RSA Attack & Defense #2 – Low Private Exponent Attack." 17 Nov. 2023. [Article](https://www.packetmania.net/en/2023/11/17/RSA-attack-defense-2/#low-private-exponent-attack).
+
+RSA. "RSA Security: From Public Key Cryptography Breakthroughs to the Future of Identity Security."[Article](https://www.rsa.com/company/rsa-cryptography/).
 
 ## Video
 
 Computerphile. "How RSA Works (Public Key Cryptography)." *YouTube*, 23 Mar. 2017. [Video](https://youtu.be/OpPrrndyYNU).
-
-## University Research Materials
-
-Ziliak, Ellen. "Public-Key Cryptography." Benedictine University Cybersecurity Summer Research Project. [PDF](https://benil.sharepoint.com/teams/CybersecuritySummerResearchProject/Shared%20Documents/General/Papers/Reading%20Discussion%201-%20Public-Key%20Cryptography.pdf).
